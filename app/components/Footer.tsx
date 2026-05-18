@@ -113,16 +113,6 @@ export default function Footer() {
                   お問い合わせ
                 </a>
               </li>
-              <li>
-                <a href="#" className="footer-link">
-                  ヘルプセンター
-                </a>
-              </li>
-              <li>
-                <a href="#" className="footer-link">
-                  セキュリティ
-                </a>
-              </li>
             </ul>
           </div>
 
