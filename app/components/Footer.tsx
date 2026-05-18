@@ -91,7 +91,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="footer-link">
+                <a href="https://voiceman.app/privacy" target="_blank" rel="noopener noreferrer" className="footer-link">
                   プライバシーポリシー
                 </a>
               </li>
