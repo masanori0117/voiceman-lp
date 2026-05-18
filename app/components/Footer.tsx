@@ -85,11 +85,7 @@ export default function Footer() {
               Legal
             </div>
             <ul className="mt-4 space-y-2.5" style={{ fontSize: 13, color: "var(--ink-soft)" }}>
-              <li>
-                <a href="#" className="footer-link">
-                  特商法
-                </a>
-              </li>
+
               <li>
                 <a href="https://voiceman.app/privacy" target="_blank" rel="noopener noreferrer" className="footer-link">
                   プライバシーポリシー
