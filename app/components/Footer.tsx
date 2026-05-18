@@ -96,7 +96,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="footer-link">
+                <a href="https://voiceman.app/terms" target="_blank" rel="noopener noreferrer" className="footer-link">
                   利用規約
                 </a>
               </li>
