@@ -109,7 +109,7 @@ export default function Footer() {
             </div>
             <ul className="mt-4 space-y-2.5" style={{ fontSize: 13, color: "var(--ink-soft)" }}>
               <li>
-                <a href="#" className="footer-link">
+                <a href="https://voiceman.app/contact" target="_blank" rel="noopener noreferrer" className="footer-link">
                   お問い合わせ
                 </a>
               </li>
